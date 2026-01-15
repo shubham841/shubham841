@@ -17,12 +17,16 @@ Currently, I am preparing for Software Development Engineer roles and improving 
 **Databases**
 - PostgreSQL
 - MongoDB
-- 
+  
 **Frontend (working knowledge)**
 - Html/CSS
 - JavaScript
 - React.js
 - Next.js
+
+**Cloud & DevOps**
+- AWS (EC2, S3, IAM – basics)
+- Docker (basics)
 
 **Tools**
 - Git & GitHub
@@ -40,7 +44,7 @@ Currently, I am preparing for Software Development Engineer roles and improving 
 
 
 ## 🤝 Connect With Me
-- 💼 LinkedIn: linkedin.com/in/shubham-bisht-sde/
+- 💼 LinkedIn: https://www.linkedin.com/in/shubham-bisht-sde/
 - 📫 Email: shubhambisht841@gmail.com
 
 ⭐ If you find my work interesting, feel free to explore my repositories or reach out!
