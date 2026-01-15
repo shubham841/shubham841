@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 I am a backend-oriented developer with hands-on experience building REST APIs, database-driven applications, and role-based systems. 
 I enjoy working close to core backend fundamentals — correctness, clean abstractions, error handling, and performance trade-offs.
-Currently, I am preparing for Software Development Engineer roles and improving my understanding of system design and backend scalability.
+Currently, I am preparing for Software Development Engineer roles and improving my understanding of backend scalability.
 
 ## 🛠️ Tech Stack
 **Backend**
