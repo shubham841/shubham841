@@ -11,7 +11,8 @@ Currently, I am preparing for Software Development Engineer roles and improving 
 
 ## 🛠️ Tech Stack
 **Backend**
-- Node.js, Express.js
+- Node.js
+- Express.js
 - RESTful API 
 
 **Databases**
