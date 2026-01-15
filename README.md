@@ -17,7 +17,7 @@ Currently, I am preparing for Software Development Engineer roles and improving 
 **Databases**
 - PostgreSQL
 - MongoDB
-
+- 
 **Frontend (working knowledge)**
 - Html/CSS
 - JavaScript
@@ -28,6 +28,15 @@ Currently, I am preparing for Software Development Engineer roles and improving 
 - Git & GitHub
 - Postman
 
+## 📚 Currently Learning
+- Backend system design fundamentals
+- Python for backend development
+- Improving code reliability and fault handling
+
+## 📈 GitHub Goals
+- Write clean, readable backend code
+- Maintain consistent contributions
+- Improve documentation and architecture clarity
 
 
 ## 🤝 Connect With Me
