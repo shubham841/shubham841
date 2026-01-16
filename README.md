@@ -32,7 +32,6 @@ Currently, I am preparing for Software Development Engineer roles and improving 
 
 ## 📚 Currently Learning
 - Backend system design fundamentals
-- Python for backend development
 - Improving code reliability and fault handling
 
 ## 📈 GitHub Goals
