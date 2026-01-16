@@ -25,12 +25,9 @@ Currently, I am preparing for Software Development Engineer roles and improving 
 - React.js
 - Next.js
 
-**Cloud & DevOps**
-- AWS (EC2, S3, IAM – basics)
-- Docker (basics)
-
 **Tools**
-- Git & GitHub
+- Git
+- GitHub
 - Postman
 
 ## 📚 Currently Learning
