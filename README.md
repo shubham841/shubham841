@@ -179,11 +179,14 @@ Building scalable backend systems and distributed applications 🚀
 ## 💼 Experience
 
 ### Backend Developer Intern | Joveo
+**Jan 2026 – May 2026**
 
-- Developed production-grade microservices using Java and Spring Boot
-- Built REST APIs for search and workflow systems
-- Used Prometheus and Grafana for monitoring
-- Worked with Jenkins CI/CD and Kubernetes deployments
+- Contributing to backend features across existing Java and Spring Boot microservices
+- Developing REST APIs for inbox management, search, and user association workflows
+- Working with distributed systems and service-to-service communication
+- Monitoring production applications using Prometheus and Grafana
+- Participating in deployments through Jenkins CI/CD pipelines and Kubernetes
+- Collaborating with engineers on debugging, testing, and improving backend reliability
 
 ---
 
