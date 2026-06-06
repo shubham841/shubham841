@@ -128,14 +128,9 @@ AI-powered platform for mock interviews and career assistance.
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shubham841&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham841&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham841&layout=compact&theme=tokyonight" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=shubham841&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=shubham841&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shubham841&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
