@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubham Bisht</h1>
+<!-- <h1 align="center">Hi 👋, I'm Shubham Bisht</h1>
 
 <h3 align="center">
 Backend Developer Intern @ Joveo | Java • Spring Boot • Microservices
@@ -145,4 +145,137 @@ AI-powered platform for mock interviews and career assistance.
 <p align="center">
   <i>Building reliable backend systems, one commit at a time 🚀</i>
 </p>
+ -->
 
+
+<h1 align="center">Hi 👋, I'm Shubham Bisht</h1>
+
+<h3 align="center">
+Backend Developer Intern @ Joveo | Java • Spring Boot • Microservices
+</h3>
+
+<p align="center">
+Building scalable backend systems and distributed applications 🚀
+</p>
+
+<p align="center">
+  <a href="https://shubham-bisht-portfolio.vercel.app/">Portfolio</a> •
+  <a href="https://linkedin.com/in/shubham-bisht-sde">LinkedIn</a> •
+  <a href="mailto:shubhambisht841@gmail.com">Email</a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Final-year B.Tech CSE student at **Delhi Technological University**
+- 💼 Backend Developer Intern at **Joveo**
+- ⚙️ Working with **Java, Spring Boot, PostgreSQL, Microservices**
+- 🌱 Currently learning **Distributed Systems & System Design**
+- 🚀 Passionate about backend scalability and reliability
+
+---
+
+## 💼 Experience
+
+### Backend Developer Intern | Joveo
+
+- Developed production-grade microservices using Java and Spring Boot
+- Built REST APIs for search and workflow systems
+- Used Prometheus and Grafana for monitoring
+- Worked with Jenkins CI/CD and Kubernetes deployments
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 LearnAI
+
+AI-powered learning platform built with:
+
+- Next.js
+- PostgreSQL
+- Drizzle ORM
+- Clerk Authentication
+
+### 🎯 Sensai — AI Career Coach
+
+- Gemini AI integration
+- Inngest workflows
+- Automated interview preparation
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge)
+
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka)
+![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
+
+### Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+
+---
+
+## 🏆 Achievements
+
+- 🔥 1050+ DSA problems solved
+- ⭐ Peak rating: 1751
+- 📅 500+ day coding streak
+- 🏅 5★ SQL & Problem Solving on HackerRank
+
+---
+
+## 📚 Currently Learning
+
+- Distributed Systems
+- System Design
+- Backend Reliability
+- Scalability Patterns
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham841&theme=github_dark"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubham841&theme=github_dark" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubham841&theme=github_dark" width="48%"/>
+</p>
+
+---
+
+## 🌐 Portfolio
+
+🔗 https://shubham-bisht-portfolio.vercel.app/
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/shubham-bisht-sde
+- Email: shubhambisht841@gmail.com
+
+---
+
+<p align="center">
+<i>Building reliable backend systems, one commit at a time 🚀</i>
+</p>
