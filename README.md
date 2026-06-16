@@ -179,7 +179,7 @@ Building scalable backend systems and distributed applications 🚀
 ## 💼 Experience
 
 ### Backend Developer Intern | Joveo
-**Jan 2026 – May 2026**
+**Jan 2026 – Present**
 
 - Contributing to backend features across existing Java and Spring Boot microservices
 - Developing REST APIs for inbox management, search, and user association workflows
@@ -192,7 +192,7 @@ Building scalable backend systems and distributed applications 🚀
 
 ## 🚀 Featured Projects
 
-### 📚 LearnAI
+### 📚 Coursify
 
 AI-powered learning platform built with:
 
